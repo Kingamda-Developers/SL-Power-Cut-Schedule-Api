@@ -1,1 +1,235 @@
-var _0x5abc=["\x61\x78\x69\x6F\x73","\x63\x68\x65\x65\x72\x69\x6F","\x75\x72\x6C\x2D\x72\x65\x67\x65\x78","\x65\x78\x70\x72\x65\x73\x73","\x50\x4F\x52\x54","\x65\x6E\x76","\x53\x75\x6E\x64\x61\x79","\x4D\x6F\x6E\x64\x61\x79","\x54\x75\x65\x73\x64\x61\x79","\x57\x65\x64\x6E\x65\x73\x64\x61\x79","\x54\x68\x75\x72\x73\x64\x61\x79","\x46\x72\x69\x64\x61\x79","\x53\x61\x74\x75\x72\x64\x61\x79","\x67\x65\x74\x44\x61\x79","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x61\x6D\x69\x6C\x67\x75\x72\x75\x2E\x6C\x6B\x2F\x70\x6F\x77\x65\x72\x2D\x63\x75\x74\x2D\x73\x63\x68\x65\x64\x75\x6C\x65\x2F","\x2F","\x54\x68\x69\x73\x20\x69\x73\x20\x6D\x79\x20\x77\x65\x62\x73\x63\x72\x61\x70\x65\x72","\x6A\x73\x6F\x6E","\x67\x65\x74","\x2F\x74\x69\x6D\x65\x74\x61\x62\x6C\x65","\x64\x61\x74\x61","\x6C\x6F\x61\x64","\x74\x65\x78\x74","\x70\x75\x73\x68","\x65\x61\x63\x68","\x23\x70\x6F\x73\x74\x2D\x31\x31\x36\x39\x31\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x70\x20\x3E\x20\x6D\x61\x72\x6B\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x31\x29\x20\x3E\x20\x62\x20\x3E\x20\x73\x74\x72\x6F\x6E\x67","","\x6A\x6F\x69\x6E","\x20","\x73\x70\x6C\x69\x74","\x63\x68\x61\x72\x41\x74","\x74\x65\x73\x74","\x74\x68","\x73\x74","\x6E\x64","\x72\x64","\x67\x65\x74\x44\x61\x74\x65","\x30","\x4A\x61\x6E\x75\x61\x72\x79","\x46\x65\x62\x72\x75\x61\x72\x79","\x4D\x61\x72\x63\x68","\x41\x70\x72\x69\x6C","\x4D\x61\x79","\x4A\x75\x6E\x65","\x4A\x75\x6C\x79","\x41\x75\x67\x75\x73\x74","\x53\x65\x70\x74\x65\x6D\x62\x65\x72","\x4F\x63\x74\x6F\x62\x65\x72","\x4E\x6F\x76\x65\x6D\x62\x65\x72","\x44\x65\x63\x65\x6D\x62\x65\x72","\x67\x65\x74\x4D\x6F\x6E\x74\x68","\x67\x65\x74\x46\x75\x6C\x6C\x59\x65\x61\x72","\x20\x6F\x66\x20","\x2C\x20","\u0D89\u0DBB\u0DD2\u0DAF\u0DCF","\u0DC3\u0DB3\u0DD4\u0DAF\u0DCF\x20","\u0D85\u0D9F\u0DC4\u0DBB\u0DD4\u0DC0\u0DCF\u0DAF\u0DCF","\u0DB6\u0DAF\u0DCF\u0DAF\u0DCF","\u0DB6\u0DCA\u200D\u0DBB\u0DC4\u0DC3\u0DCA\u0DB4\u0DAD\u0DD2\u0DB1\u0DCA\u0DAF\u0DCF","\u0DC3\u0DD2\u0D9A\u0DD4\u0DBB\u0DCF\u0DAF\u0DCF","\u0DC3\u0DD9\u0DB1\u0DC3\u0DD4\u0DBB\u0DCF\u0DAF\u0DCF","\u0DA2\u0DB1\u0DC0\u0DCF\u0DBB\u0DD2","\u0DB4\u0DD9\u0DB6\u0DBB\u0DC0\u0DCF\u0DBB\u0DD2","\u0DB8\u0DCF\u0DBB\u0DCA\u0DAD\u0DD4","\u0D85\u0DB4\u0DCA\u200D\u0DBB\u0DDA\u0DBD\u0DCA","\u0DB8\u0DD0\u0DBA\u0DD2","\u0DA2\u0DD4\u0DB1\u0DD2","\u0DA2\u0DD6\u0DBD\u0DD2","\u0D85\u0D9C\u0DDD\u0DC3\u0DCA\u0DAD\u0DD4","\u0DC3\u0DD0\u0DB4\u0DCA\u0DAD\u0DD0\u0DB8\u0DCA\u0DB6\u0DBB\u0DCA","\u0D94\u0D9A\u0DCA\u0DAD\u0DDD\u0DB6\u0DBB\u0DCA","\u0DB1\u0DDC\u0DC0\u0DD0\u0DB8\u0DCA\u0DB6\u0DBB\u0DCA","\u0DAF\u0DD9\u0DC3\u0DD0\u0DB8\u0DCA\u0DB6\u0DBB\u0DCA","\x68\x72\x65\x66","\x61\x74\x74\x72","\x23\x70\x6F\x73\x74\x2D\x31\x31\x36\x39\x31\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x75\x6C\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x36\x29\x20\x3E\x20\x6C\x69\x20\x3E\x20\x73\x74\x72\x6F\x6E\x67\x20\x3E\x20\x61","\x23\x70\x6F\x73\x74\x2D\x31\x31\x36\x39\x31\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x64\x69\x76\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x37\x29\x20\x3E\x20\x66\x69\x67\x75\x72\x65","\x6D\x61\x74\x63\x68","\x3C\x2E\x2F\x4B\x69\x6E\x67\x20\x41\x6D\x64\x61\x20\x44\x65\x76\x65\x6C\x6F\x70\x65\x72\x73\x2E\x3E","\x50\x61\x73\x69\x6E\x64\x75\x20\x53\x61\x6D\x61\x72\x61\x73\x69\x6E\x67\x68\x61","\x23\x70\x6F\x73\x74\x2D\x31\x31\x36\x39\x31\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x75\x6C\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x31\x30\x29\x20\x3E\x20\x6C\x69\x20\x3E\x20\x73\x74\x72\x6F\x6E\x67\x20\x3E\x20\x61","\x23\x70\x6F\x73\x74\x2D\x31\x31\x36\x39\x31\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x64\x69\x76\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x31\x31\x29\x20\x3E\x20\x66\x69\x67\x75\x72\x65","\x73\x6F\x6D\x65\x74\x68\x69\x6E\x67\x20\x77\x65\x6E\x74\x20\x77\x72\x6F\x6E\x67","\x6C\x6F\x67","\x74\x68\x65\x6E","\x2F\x67\x72\x6F\x75\x70","\x63\x69\x74\x79","\x71\x75\x65\x72\x79","\x68\x74\x74\x70\x3A\x2F\x2F\x67\x6F\x61\x6E\x79\x6F\x6E\x65\x2E\x63\x6F\x6D\x2F\x70\x6F\x77\x65\x72\x63\x75\x74\x2F\x73\x65\x61\x72\x63\x68\x2E\x70\x68\x70\x3F\x73\x65\x61\x72\x63\x68\x3D","\x23\x67\x6F\x61\x72\x65\x61\x73","\x23\x67\x6F\x61\x72\x65\x61\x73\x20\x3E\x20\x74\x62\x6F\x64\x79\x20\x3E\x20\x74\x72\x20\x3E\x20\x74\x64\x20\x3E\x20\x64\x69\x76\x20\x3E\x20\x68\x32","\x72\x65\x70\x6C\x61\x63\x65","\x23\x67\x6F\x61\x72\x65\x61\x73\x20\x3E\x20\x74\x62\x6F\x64\x79\x20\x3E\x20\x74\x72\x20\x3E\x20\x74\x64\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x32\x29\x20\x3E\x20\x64\x69\x76","\x23\x67\x6F\x61\x72\x65\x61\x73\x20\x3E\x20\x74\x62\x6F\x64\x79\x20\x3E\x20\x74\x72\x20\x3E\x20\x74\x64\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x33\x29\x20\x3E\x20\x64\x69\x76","\x23\x67\x6F\x61\x72\x65\x61\x73\x20\x3E\x20\x74\x62\x6F\x64\x79\x20\x3E\x20\x74\x72\x20\x3E\x20\x74\x64\x3A\x6E\x74\x68\x2D\x63\x68\x69\x6C\x64\x28\x34\x29\x20\x3E\x20\x64\x69\x76","\x6C\x65\x6E\x67\x74\x68","\x61\x72\x65\x61","\x43\x61\x6E\x6E\x6F\x74\x20\x46\x6F\x75\x6E\x64\x20\x27","\x27\x20\x50\x6C\x7A\x20\x43\x68\x65\x63\x6B\x20\x53\x70\x65\x6C\x6C\x69\x6E\x67\x73","\x27","\x27\x20\u0D9A\u0DD2\u0DBA\u0DBD\u0DCF\x20\u0D9C\u0DB8\u0D9A\u0DCA\x20\u0DC4\u0DDC\u0DBA\u0DCF\u0D9C\u0DB1\u0DCA\u0DB1\x20\u0DB6\u0DD0\u0DBB\u0DD2\x20\u0D8B\u0DB1\u0DCF\x20\u0DB4\u0DDC\u0DA9\u0DCA\u0DA9\u0D9A\u0DCA\x20\u0D85\u0D9A\u0DD4\u0DBB\u0DD4\x20\u0DC4\u0DBB\u0DD2\u0DAF\x20\u0D9A\u0DD2\u0DBA\u0DBD\u0DCF\x20\u0DB6\u0DBD\u0DB1\u0DCA\u0DB1","\x73\x65\x72\x76\x65\x72\x20\x72\x75\x6E\x6E\x69\x6E\x67\x20\x6F\x6E\x20\x50\x4F\x52\x54\x20","\x6C\x69\x73\x74\x65\x6E"];const axios=require(_0x5abc[0]);const cheerio=require(_0x5abc[1]);const urlRegex=require(_0x5abc[2]);const express=require(_0x5abc[3]);const app=express();const PORT=process[_0x5abc[5]][_0x5abc[4]]|| 3000;const days=[_0x5abc[6],_0x5abc[7],_0x5abc[8],_0x5abc[9],_0x5abc[10],_0x5abc[11],_0x5abc[12]];const d= new Date();let day=days[d[_0x5abc[13]]()];const url=_0x5abc[14];app[_0x5abc[18]](_0x5abc[15],function(_0xfe0bxb,_0xfe0bxc){_0xfe0bxc[_0x5abc[17]](_0x5abc[16])});app[_0x5abc[18]](_0x5abc[19],(_0xfe0bxb,_0xfe0bxc)=>{axios[_0x5abc[18]](url)[_0x5abc[84]]((_0xfe0bxd)=>{const _0xfe0bxe=_0xfe0bxd[_0x5abc[20]];const _0xfe0bxf=cheerio[_0x5abc[21]](_0xfe0bxe);const _0xfe0bx10=[];_0xfe0bxf(_0x5abc[25],_0xfe0bxe)[_0x5abc[24]](function(){const _0xfe0bx11=_0xfe0bxf(this)[_0x5abc[22]]();_0xfe0bx10[_0x5abc[23]](_0xfe0bx11)});const _0xfe0bx12=_0xfe0bx10[0][_0x5abc[29]](_0x5abc[28])[_0x5abc[27]](_0x5abc[26]);const _0xfe0bx13=_0xfe0bx10[1][_0x5abc[29]](_0x5abc[28])[_0x5abc[27]](_0x5abc[26]);if(day=== _0xfe0bx12){var _0xfe0bx14= new Date(),_0xfe0bx15= new Array(_0x5abc[6],_0x5abc[7],_0x5abc[8],_0x5abc[9],_0x5abc[10],_0x5abc[11],_0x5abc[12]),_0xfe0bx16=_0xfe0bx15[_0xfe0bx14[_0x5abc[13]]()],_0xfe0bx17=function(){var _0xfe0bx1c=_0xfe0bx14;if(/1/[_0x5abc[31]](parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](0)))){return _0x5abc[32]};_0xfe0bx1c= parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](1));return 1== _0xfe0bx1c?_0x5abc[33]:2== _0xfe0bx1c?_0x5abc[34]:3== _0xfe0bx1c?_0x5abc[35]:_0x5abc[32]}(),_0xfe0bx18=_0xfe0bx1d+ (_0xfe0bx14[_0x5abc[36]]()< 10)?_0x5abc[37]+ _0xfe0bx14[_0x5abc[36]]()+ _0xfe0bx17:_0xfe0bx14[_0x5abc[36]]()+ _0xfe0bx17,_0xfe0bx19= new Array(_0x5abc[38],_0x5abc[39],_0x5abc[40],_0x5abc[41],_0x5abc[42],_0x5abc[43],_0x5abc[44],_0x5abc[45],_0x5abc[46],_0x5abc[47],_0x5abc[48],_0x5abc[49]),_0xfe0bx1a=_0xfe0bx19[_0xfe0bx14[_0x5abc[50]]()],_0xfe0bx1b=_0xfe0bx14[_0x5abc[51]]();var _0xfe0bx1d=_0xfe0bx16+ _0x5abc[28]+ _0xfe0bx18+ _0x5abc[52]+ _0xfe0bx1a+ _0x5abc[53]+ _0xfe0bx1b;var _0xfe0bx1e= new Date(),_0xfe0bx1f= new Array(_0x5abc[54],_0x5abc[55],_0x5abc[56],_0x5abc[57],_0x5abc[58],_0x5abc[59],_0x5abc[60]),_0xfe0bx20=_0xfe0bx1f[_0xfe0bx1e[_0x5abc[13]]()],_0xfe0bx21=function(){var _0xfe0bx1c=_0xfe0bx1e;if(/1/[_0x5abc[31]](parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](0)))){return _0x5abc[26]};_0xfe0bx1c= parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](1));return 1== _0xfe0bx1c?_0x5abc[26]:2== _0xfe0bx1c?_0x5abc[26]:3== _0xfe0bx1c?_0x5abc[26]:_0x5abc[26]}(),_0xfe0bx22=_0xfe0bx26+ (_0xfe0bx1e[_0x5abc[36]]()< 10)?_0x5abc[37]+ _0xfe0bx1e[_0x5abc[36]]()+ _0xfe0bx21:_0xfe0bx1e[_0x5abc[36]]()+ _0xfe0bx21,_0xfe0bx23= new Array(_0x5abc[61],_0x5abc[62],_0x5abc[63],_0x5abc[64],_0x5abc[65],_0x5abc[66],_0x5abc[67],_0x5abc[68],_0x5abc[69],_0x5abc[70],_0x5abc[71],_0x5abc[72]),_0xfe0bx24=_0xfe0bx23[_0xfe0bx1e[_0x5abc[50]]()],_0xfe0bx25=_0xfe0bx1e[_0x5abc[51]]();var _0xfe0bx26=_0xfe0bx20+ _0x5abc[28]+ _0xfe0bx22+ _0x5abc[52]+ _0xfe0bx24+ _0x5abc[53]+ _0xfe0bx25;const _0xfe0bx27=_0xfe0bx18+ _0x5abc[28]+ _0xfe0bx1a+ _0x5abc[53]+ _0xfe0bx1b;const _0xfe0bx28=_0xfe0bx22+ _0x5abc[28]+ _0xfe0bx24+ _0x5abc[53]+ _0xfe0bx25;const _0xfe0bx29=_0xfe0bx20;const _0xfe0bx2a=_0xfe0bxf(_0x5abc[75])[_0x5abc[74]](_0x5abc[73]);const _0xfe0bx2b=_0xfe0bxf(_0x5abc[76])[_0x5abc[22]]();const _0xfe0bx2c=_0xfe0bx2b[_0x5abc[77]](urlRegex());_0xfe0bxc[_0x5abc[17]]({result:{Developed_By:_0x5abc[78],author:_0x5abc[79],data:{day_en:_0xfe0bx13,day_si:_0xfe0bx29,date_en:_0xfe0bx27,date_si:_0xfe0bx28,img:_0xfe0bx2c[0],pdf_link:_0xfe0bx2a}}})}else {if(day=== _0xfe0bx13){var _0xfe0bx14= new Date(),_0xfe0bx15= new Array(_0x5abc[6],_0x5abc[7],_0x5abc[8],_0x5abc[9],_0x5abc[10],_0x5abc[11],_0x5abc[12]),_0xfe0bx16=_0xfe0bx15[_0xfe0bx14[_0x5abc[13]]()],_0xfe0bx17=function(){var _0xfe0bx1c=_0xfe0bx14;if(/1/[_0x5abc[31]](parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](0)))){return _0x5abc[32]};_0xfe0bx1c= parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](1));return 1== _0xfe0bx1c?_0x5abc[33]:2== _0xfe0bx1c?_0x5abc[34]:3== _0xfe0bx1c?_0x5abc[35]:_0x5abc[32]}(),_0xfe0bx18=_0xfe0bx1d+ (_0xfe0bx14[_0x5abc[36]]()< 10)?_0x5abc[37]+ _0xfe0bx14[_0x5abc[36]]()+ _0xfe0bx17:_0xfe0bx14[_0x5abc[36]]()+ _0xfe0bx17,_0xfe0bx19= new Array(_0x5abc[38],_0x5abc[39],_0x5abc[40],_0x5abc[41],_0x5abc[42],_0x5abc[43],_0x5abc[44],_0x5abc[45],_0x5abc[46],_0x5abc[47],_0x5abc[48],_0x5abc[49]),_0xfe0bx1a=_0xfe0bx19[_0xfe0bx14[_0x5abc[50]]()],_0xfe0bx1b=_0xfe0bx14[_0x5abc[51]]();var _0xfe0bx1d=_0xfe0bx16+ _0x5abc[28]+ _0xfe0bx18+ _0x5abc[52]+ _0xfe0bx1a+ _0x5abc[53]+ _0xfe0bx1b;var _0xfe0bx1e= new Date(),_0xfe0bx1f= new Array(_0x5abc[54],_0x5abc[55],_0x5abc[56],_0x5abc[57],_0x5abc[58],_0x5abc[59],_0x5abc[60]),_0xfe0bx20=_0xfe0bx1f[_0xfe0bx1e[_0x5abc[13]]()],_0xfe0bx21=function(){var _0xfe0bx1c=_0xfe0bx1e;if(/1/[_0x5abc[31]](parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](0)))){return _0x5abc[32]};_0xfe0bx1c= parseInt((_0xfe0bx1c+ _0x5abc[26])[_0x5abc[30]](1));return 1== _0xfe0bx1c?_0x5abc[33]:2== _0xfe0bx1c?_0x5abc[34]:3== _0xfe0bx1c?_0x5abc[35]:_0x5abc[32]}(),_0xfe0bx22=_0xfe0bx26+ (_0xfe0bx1e[_0x5abc[36]]()< 10)?_0x5abc[37]+ _0xfe0bx1e[_0x5abc[36]]()+ _0xfe0bx17:_0xfe0bx1e[_0x5abc[36]]()+ _0xfe0bx17,_0xfe0bx23= new Array(_0x5abc[61],_0x5abc[62],_0x5abc[63],_0x5abc[64],_0x5abc[65],_0x5abc[66],_0x5abc[67],_0x5abc[68],_0x5abc[69],_0x5abc[70],_0x5abc[71],_0x5abc[72]),_0xfe0bx24=_0xfe0bx23[_0xfe0bx1e[_0x5abc[50]]()],_0xfe0bx25=_0xfe0bx1e[_0x5abc[51]]();var _0xfe0bx26=_0xfe0bx20+ _0x5abc[28]+ _0xfe0bx22+ _0x5abc[52]+ _0xfe0bx24+ _0x5abc[53]+ _0xfe0bx25;const _0xfe0bx27=_0xfe0bx18+ _0x5abc[28]+ _0xfe0bx1a+ _0x5abc[53]+ _0xfe0bx1b;const _0xfe0bx28=_0xfe0bx22+ _0x5abc[28]+ _0xfe0bx24+ _0x5abc[53]+ _0xfe0bx25;const _0xfe0bx29=_0xfe0bx20;const _0xfe0bx2a=_0xfe0bxf(_0x5abc[80])[_0x5abc[74]](_0x5abc[73]);const _0xfe0bx2b=_0xfe0bxf(_0x5abc[81])[_0x5abc[22]]();const _0xfe0bx2c=_0xfe0bx2b[_0x5abc[77]](urlRegex());_0xfe0bxc[_0x5abc[17]]({result:{Developed_By:_0x5abc[78],author:_0x5abc[79],data:{day_en:_0xfe0bx13,day_si:_0xfe0bx29,date_en:_0xfe0bx27,date_si:_0xfe0bx28,img:_0xfe0bx2c[0],pdf_link:_0xfe0bx2a}}})}else {console[_0x5abc[83]](_0x5abc[82])}}})});app[_0x5abc[18]](_0x5abc[85],(_0xfe0bxb,_0xfe0bxc)=>{var _0xfe0bx2d=_0xfe0bxb[_0x5abc[87]][_0x5abc[86]];const _0xfe0bx2e=`${_0x5abc[88]}${_0xfe0bx2d}${_0x5abc[26]}`;axios[_0x5abc[18]](_0xfe0bx2e)[_0x5abc[84]]((_0xfe0bxd)=>{const _0xfe0bxe=_0xfe0bxd[_0x5abc[20]];const _0xfe0bxf=cheerio[_0x5abc[21]](_0xfe0bxe);const _0xfe0bx2f=[];const _0xfe0bx30=[];const _0xfe0bx31=[];const _0xfe0bx32=[];const _0xfe0bx33=[];const _0xfe0bx34=_0xfe0bxf(_0x5abc[89])[_0x5abc[22]]();_0xfe0bxf(_0x5abc[90],_0xfe0bxe)[_0x5abc[24]](function(){const _0xfe0bx35=_0xfe0bxf(this)[_0x5abc[22]]();_0xfe0bx2f[_0x5abc[23]](_0xfe0bx35)});_0xfe0bxf(_0x5abc[92],_0xfe0bxe)[_0x5abc[24]](function(){const _0xfe0bx36=_0xfe0bxf(this)[_0x5abc[22]]();n_r= _0xfe0bx36[_0x5abc[91]](/\r?\n|\r/g,_0x5abc[28]);t_r= n_r[_0x5abc[91]](/\r?\t|\r/g,_0x5abc[28]);let _0xfe0bx37=t_r[_0x5abc[29]](_0x5abc[28])[_0x5abc[27]](_0x5abc[26]);_0xfe0bx30[_0x5abc[23]](_0xfe0bx37)});_0xfe0bxf(_0x5abc[93],_0xfe0bxe)[_0x5abc[24]](function(){const _0xfe0bx38=_0xfe0bxf(this)[_0x5abc[22]]();n_r= _0xfe0bx38[_0x5abc[91]](/\r?\n|\r/g,_0x5abc[28]);t_r= n_r[_0x5abc[91]](/\r?\t|\r/g,_0x5abc[28]);let _0xfe0bx39=t_r[_0x5abc[29]](_0x5abc[28])[_0x5abc[27]](_0x5abc[26]);_0xfe0bx31[_0x5abc[23]](_0xfe0bx39)});_0xfe0bxf(_0x5abc[94],_0xfe0bxe)[_0x5abc[24]](function(){const _0xfe0bx3a=_0xfe0bxf(this)[_0x5abc[22]]();n_r= _0xfe0bx3a[_0x5abc[91]](/\r?\n|\r/g,_0x5abc[28]);t_r= n_r[_0x5abc[91]](/\r?\t|\r/g,_0x5abc[28]);let _0xfe0bx3b=t_r[_0x5abc[29]](_0x5abc[28])[_0x5abc[27]](_0x5abc[26]);let _0xfe0bx3c=_0xfe0bx3b[_0x5abc[29]](/[ ,]+/);_0xfe0bx32[_0x5abc[23]]({area})});async function _0xfe0bx3d(){for(let _0xfe0bx3e=0;_0xfe0bx3e< _0xfe0bx2f[_0x5abc[95]];_0xfe0bx3e++){const _0xfe0bx35= await _0xfe0bx2f[_0xfe0bx3e];const _0xfe0bx37= await _0xfe0bx30[_0xfe0bx3e];const _0xfe0bx39= await _0xfe0bx31[_0xfe0bx3e];const _0xfe0bx3c= await _0xfe0bx32[_0xfe0bx3e][_0x5abc[96]]; await _0xfe0bx33[_0x5abc[23]]({group,subs,feed,area})}}async function _0xfe0bx3f(){ await _0xfe0bx3d();if(0< _0xfe0bx33[_0x5abc[95]]){_0xfe0bxc[_0x5abc[17]]({result:{Developed_By:_0x5abc[78],author:_0x5abc[79],data:{city:_0xfe0bx2d,info:_0xfe0bx33}}})}else {_0xfe0bxc[_0x5abc[17]]({erro_en:`${_0x5abc[97]}${_0xfe0bx2d}${_0x5abc[98]}`,erro_si:`${_0x5abc[99]}${_0xfe0bx2d}${_0x5abc[100]}`})}}_0xfe0bx3f()})});app[_0x5abc[102]](PORT,()=>{return console[_0x5abc[83]](`${_0x5abc[101]}${PORT}${_0x5abc[26]}`)})
+const axios = require('axios')
+const cheerio = require('cheerio')
+const urlRegex = require('url-regex');
+const express = require('express')
+const app = express()
+
+const PORT = process.env.PORT || 3000
+
+const days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+const d = new Date();
+let day = days[d.getDay()];
+
+const url = 'https://tamilguru.lk/power-cut-schedule/'
+
+app.get('/', function (req, res) {
+     res.json('This is my webscraper')
+ })
+
+app.get('/timetable', (req, res) => { 
+
+     axios.get(url)
+          .then(response => {
+               const data = response.data
+               const $ = cheerio.load(data)
+               const g_date = []
+               $('#post-11691 > div > p > mark:nth-child(1) > b > strong', data).each(function () { 
+                    const date_o = $(this).text()
+                    g_date.push(
+                         date_o
+                    )
+               })
+               
+               
+               const d1 = g_date[0].split(' ').join('')
+               const d2 = g_date[1].split(' ').join('') 
+
+               if(day === d1){
+                    
+                    var objToday_e = new Date(),
+                    weekday = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'),
+                    dayOfWeek = weekday[objToday_e.getDay()],
+                    domEnder = function() { var a = objToday_e; if (/1/.test(parseInt((a + "").charAt(0)))) return "th"; a = parseInt((a + "").charAt(1)); return 1 == a ? "st" : 2 == a ? "nd" : 3 == a ? "rd" : "th" }(),
+                    dayOfMonth = today + ( objToday_e.getDate() < 10) ? '0' + objToday_e.getDate() + domEnder : objToday_e.getDate() + domEnder,
+                    months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'),
+                    curMonth = months[objToday_e.getMonth()],
+                    curYear = objToday_e.getFullYear()
+                    var today = dayOfWeek + " " + dayOfMonth + " of " + curMonth + ", " + curYear;
+
+                    var objToday_s = new Date(),
+                    weekday_s = new Array('ඉරිදා', 'සඳුදා ', 'අඟහරුවාදා', 'බදාදා', 'බ්‍රහස්පතින්දා', 'සිකුරාදා', 'සෙනසුරාදා'),
+                    dayOfWeek_s = weekday_s[objToday_s.getDay()],
+                    domEnder_s = function() { var a = objToday_s; if (/1/.test(parseInt((a + "").charAt(0)))) return ""; a = parseInt((a + "").charAt(1)); return 1 == a ? "" : 2 == a ? "" : 3 == a ? "" : "" }(),
+                    dayOfMonth_s = today_s + ( objToday_s.getDate() < 10) ? '0' + objToday_s.getDate() + domEnder_s : objToday_s.getDate() + domEnder_s,
+                    months_s = new Array('ජනවාරි', 'පෙබරවාරි', 'මාර්තු', 'අප්‍රේල්', 'මැයි', 'ජුනි', 'ජූලි', 'අගෝස්තු', 'සැප්තැම්බර්', 'ඔක්තෝබර්', 'නොවැම්බර්', 'දෙසැම්බර්'),
+                    curMonth_s = months_s[objToday_s.getMonth()],
+                    curYear_s = objToday_s.getFullYear()
+                    var today_s = dayOfWeek_s + " " + dayOfMonth_s + " of " + curMonth_s + ", " + curYear_s;
+                    const date_e = dayOfMonth + " " + curMonth + ", " + curYear;
+                    const date_s = dayOfMonth_s + " " + curMonth_s + ", " + curYear_s;
+                    const day_s = dayOfWeek_s
+
+
+                    const pdf = $("#post-11691 > div > ul:nth-child(6) > li > strong > a").attr('href')
+
+                    const image =$("#post-11691 > div > div:nth-child(7) > figure").text()
+                    const img = image.match(urlRegex());
+
+                    res.json(
+                         {result:{
+                             Developed_By:'<./King Amda Developers.>',
+                             author:'Pasindu Samarasingha',
+                             data:{
+                                   day_en:d2,
+                                   day_si:day_s,
+                                   date_en:date_e,
+                                   date_si:date_s,
+                                   img:img[0],
+                                   pdf_link:pdf,
+                             }
+                         }
+                     }
+                     )
+                    
+               }else if (day === d2){
+
+                    var objToday_e = new Date(),
+                    weekday = new Array('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'),
+                    dayOfWeek = weekday[objToday_e.getDay()],
+                    domEnder = function() { var a = objToday_e; if (/1/.test(parseInt((a + "").charAt(0)))) return "th"; a = parseInt((a + "").charAt(1)); return 1 == a ? "st" : 2 == a ? "nd" : 3 == a ? "rd" : "th" }(),
+                    dayOfMonth = today + ( objToday_e.getDate() < 10) ? '0' + objToday_e.getDate() + domEnder : objToday_e.getDate() + domEnder,
+                    months = new Array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'),
+                    curMonth = months[objToday_e.getMonth()],
+                    curYear = objToday_e.getFullYear()
+                    var today = dayOfWeek + " " + dayOfMonth + " of " + curMonth + ", " + curYear;
+
+                    var objToday_s = new Date(),
+                    weekday_s = new Array('ඉරිදා', 'සඳුදා ', 'අඟහරුවාදා', 'බදාදා', 'බ්‍රහස්පතින්දා', 'සිකුරාදා', 'සෙනසුරාදා'),
+                    dayOfWeek_s = weekday_s[objToday_s.getDay()],
+                    domEnder_s = function() { var a = objToday_s; if (/1/.test(parseInt((a + "").charAt(0)))) return "th"; a = parseInt((a + "").charAt(1)); return 1 == a ? "st" : 2 == a ? "nd" : 3 == a ? "rd" : "th" }(),
+                    dayOfMonth_s = today_s + ( objToday_s.getDate() < 10) ? '0' + objToday_s.getDate() + domEnder : objToday_s.getDate() + domEnder,
+                    months_s = new Array('ජනවාරි', 'පෙබරවාරි', 'මාර්තු', 'අප්‍රේල්', 'මැයි', 'ජුනි', 'ජූලි', 'අගෝස්තු', 'සැප්තැම්බර්', 'ඔක්තෝබර්', 'නොවැම්බර්', 'දෙසැම්බර්'),
+                    curMonth_s = months_s[objToday_s.getMonth()],
+                    curYear_s = objToday_s.getFullYear()
+                    var today_s = dayOfWeek_s + " " + dayOfMonth_s + " of " + curMonth_s + ", " + curYear_s;
+                    const date_e = dayOfMonth + " " + curMonth + ", " + curYear;
+                    const date_s = dayOfMonth_s + " " + curMonth_s + ", " + curYear_s;
+                    const day_s = dayOfWeek_s
+
+
+                    const pdf = $("#post-11691 > div > ul:nth-child(10) > li > strong > a").attr('href')
+
+                    const image =$("#post-11691 > div > div:nth-child(11) > figure").text()
+                    const img = image.match(urlRegex());
+                    
+                    res.json(
+                         {result:{
+                             Developed_By:'<./King Amda Developers.>',
+                             author:'Pasindu Samarasingha',
+                             data:{
+                                   day_en:d2,
+                                   day_si:day_s,
+                                   date_en:date_e,
+                                   date_si:date_s,
+                                   img:img[0],
+                                   pdf_link:pdf,
+                             }
+                         }
+                     }
+                     )
+
+               }else {
+                    console.log('something went wrong');
+               }
+          })
+
+})
+
+
+app.get('/group', (req, res) => { 
+     var place = req.query.city
+     
+     const url2 = `http://goanyone.com/powercut/search.php?search=${place}`
+
+     axios.get(url2)
+     .then(response => {
+          const data = response.data
+          const $ = cheerio.load(data)
+          const groups = []
+          const Substations = []
+          const Feeders = []
+          const Affecting_Areas = []
+
+          const test =[]
+          const table = $("#goareas").text()
+          $('#goareas > tbody > tr > td > div > h2', data).each(function () { 
+               const group = $(this).text()
+               groups.push(
+                    group
+               )
+          })
+          $("#goareas > tbody > tr > td:nth-child(2) > div", data).each(function () { 
+               const Substation = $(this).text()
+
+               n_r = Substation.replace(/\r?\n|\r/g, " ")  //! \n remove
+               t_r = n_r.replace(/\r?\t|\r/g, " "); //? \t remove
+               let subs = t_r.split(' ').join('') //* space remove
+
+               Substations.push(
+                    subs
+               )
+          })
+          $("#goareas > tbody > tr > td:nth-child(3) > div", data).each(function () { 
+               const Feeder = $(this).text()
+
+               n_r = Feeder.replace(/\r?\n|\r/g, " ")  //! \n remove
+               t_r = n_r.replace(/\r?\t|\r/g, " "); //? \t remove
+               let feed = t_r.split(' ').join('') //* space remove
+
+               Feeders.push(
+                    feed
+               )
+          })
+          $("#goareas > tbody > tr > td:nth-child(4) > div", data).each(function () { 
+               const Affecting_Area = $(this).text()
+
+               n_r = Affecting_Area.replace(/\r?\n|\r/g, " ")  //! \n remove
+               t_r = n_r.replace(/\r?\t|\r/g, " "); //? \t remove
+               let s_r = t_r.split(' ').join('') //* space remove
+               let area = s_r.split(/[ ,]+/);
+               Affecting_Areas.push({
+                    area
+               })
+          })
+
+          async function myDisplay() {  
+               for(let i=0;i<groups.length; i++){
+                    const group = await groups[i]
+                    const subs = await Substations[i]
+                    const feed = await Feeders[i]
+                    const area = await Affecting_Areas[i].area
+                    await test.push({
+                         group,
+                         subs,
+                         feed,
+                         area
+                    })      
+               }
+
+          }  
+          
+          async function final(){
+               await myDisplay() 
+               if(0 < test.length){
+                    res.json({result:{
+                         Developed_By:'<./King Amda Developers.>',
+                         author:'Pasindu Samarasingha',
+                         data:{
+                              city:place,
+                              info:test, 
+                         },
+                    },
+               })
+               }else{
+                    res.json({erro_en:`Cannot Found '${place}' Plz Check Spellings`,erro_si:`'${place}' කියලා ගමක් හොයාගන්න බැරි උනා පොඩ්ඩක් අකුරු හරිද කියලා බලන්න`})   
+                  }
+          }
+          final()
+          
+     })
+
+})
+
+
+app.listen(PORT, () => console.log(`server running on PORT ${PORT}`))
